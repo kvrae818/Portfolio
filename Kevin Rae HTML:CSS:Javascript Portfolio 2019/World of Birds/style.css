@@ -1,0 +1,95 @@
+body {
+    font-family: helvetica;
+    background-color: white;
+    text-align: center;
+}
+h1 {
+    color: cadetblue;
+    font-family: helvetica;
+}
+h2 {
+	color: cadetblue;
+    font-family: helvetica;
+}
+h3 {
+	color: cadetblue;
+	font-family: helvetica;
+}
+p {
+    color: cadetblue;
+    font-family: helvetica;
+
+}
+.topnav a {
+  float: center;
+  color: cadetblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.bird_pic {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+  	position: relative;
+    width:  500px;
+    height: 500px;
+}
+.toucan_pic {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+  	position: relative;
+    width:  600px;
+    height: 500px;
+}
+.dog_pic {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+  	position: relative;
+    width:  800px;
+    height: 500px;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: blue;
+
+}
+.button_link {
+	background-color: orange;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+.button_link:hover {
+  background-color: cadetblue;
+}
+.sub_button {
+	background-color: orange;
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
